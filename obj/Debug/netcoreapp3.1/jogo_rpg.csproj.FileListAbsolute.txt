@@ -1,0 +1,13 @@
+X:\coder_workspace\DIO\gft_start5\jogo_rpg\bin\Debug\netcoreapp3.1\jogo_rpg.exe
+X:\coder_workspace\DIO\gft_start5\jogo_rpg\bin\Debug\netcoreapp3.1\jogo_rpg.deps.json
+X:\coder_workspace\DIO\gft_start5\jogo_rpg\bin\Debug\netcoreapp3.1\jogo_rpg.runtimeconfig.json
+X:\coder_workspace\DIO\gft_start5\jogo_rpg\bin\Debug\netcoreapp3.1\jogo_rpg.runtimeconfig.dev.json
+X:\coder_workspace\DIO\gft_start5\jogo_rpg\bin\Debug\netcoreapp3.1\jogo_rpg.dll
+X:\coder_workspace\DIO\gft_start5\jogo_rpg\bin\Debug\netcoreapp3.1\jogo_rpg.pdb
+X:\coder_workspace\DIO\gft_start5\jogo_rpg\obj\Debug\netcoreapp3.1\jogo_rpg.csprojAssemblyReference.cache
+X:\coder_workspace\DIO\gft_start5\jogo_rpg\obj\Debug\netcoreapp3.1\jogo_rpg.AssemblyInfoInputs.cache
+X:\coder_workspace\DIO\gft_start5\jogo_rpg\obj\Debug\netcoreapp3.1\jogo_rpg.AssemblyInfo.cs
+X:\coder_workspace\DIO\gft_start5\jogo_rpg\obj\Debug\netcoreapp3.1\jogo_rpg.csproj.CoreCompileInputs.cache
+X:\coder_workspace\DIO\gft_start5\jogo_rpg\obj\Debug\netcoreapp3.1\jogo_rpg.dll
+X:\coder_workspace\DIO\gft_start5\jogo_rpg\obj\Debug\netcoreapp3.1\jogo_rpg.pdb
+X:\coder_workspace\DIO\gft_start5\jogo_rpg\obj\Debug\netcoreapp3.1\jogo_rpg.genruntimeconfig.cache
